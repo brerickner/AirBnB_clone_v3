@@ -1,0 +1,2 @@
+brerickner
+Code looks good. Curious as to why you use cls.class.__name in the all function, but then use cls.name in the get function, shouldn't they require the same access?
